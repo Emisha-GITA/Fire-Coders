@@ -12,4 +12,5 @@
 
 - We also Made an another Project, which is a prototype of the Hotel Management System.
 - We Developed it on *FIGMA*, it provides the enviroment for developing an interface for designing an app.
+- This design helps to make a Book Hotel Interface.
 - You can view our Project by clicking this [link](https://www.figma.com/file/L7sfVaCKVfBbS6ILY7r6R8wN/hotel-management).
